@@ -1,8 +1,0 @@
-{
-  "name": "browser-dot-slash-index-js",
-  "version": "1.2.3",
-  "browser": {
-    "./index.js": "entrypoint.js",
-    "./bad": "bad"
-  }
-}

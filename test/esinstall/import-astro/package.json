@@ -1,8 +1,0 @@
-{
-  "private": true,
-  "version": "1.0.1",
-  "name": "@snowpack/test-dep-astro",
-  "dependencies": {
-    "astro-components": "file:./packages/components"
-  }
-}

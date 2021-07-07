@@ -1,8 +1,0 @@
-{
-  "private": true,
-  "version": "1.0.1",
-  "name": "@snowpack/test-sub-package-json",
-  "dependencies": {
-    "solid-js": "^0.16.7"
-  }
-}

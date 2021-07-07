@@ -1,8 +1,0 @@
-{
-  "private": true,
-  "version": "1.0.1",
-  "name": "@snowpack/test-node-env",
-  "dependencies": {
-    "node-env-mock-pkg": "file:./packages/node-env-mock-pkg"
-  }
-}
